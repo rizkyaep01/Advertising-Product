@@ -27,4 +27,5 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 ```
 ## Result Preview
-![as](C:\Users\Lenovo\Downloads\koef.png)
+![alt text](?raw=true)
+
