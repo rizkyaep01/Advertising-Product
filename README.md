@@ -27,5 +27,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 ```
 ## Result Preview
-![alt text](?raw=true)
+terjadi perubahan yang signifikan dalam alokasi biaya iklan sebelum dan setelah optimasi.
+![alt text](https://github.com/rizkyaep01/Optimizing-Advertising-Budgets/blob/main/pict/9koef.png?raw=true)
 
