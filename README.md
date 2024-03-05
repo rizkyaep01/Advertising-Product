@@ -1,5 +1,6 @@
 # Optimizing Advertising Budgets
 Dataset ini mencakup biaya iklan di berbagai platform (TV, Billboards, Google Ads, Media Sosial, Pemasaran Influencer, dan Pemasaran Afiliasi). Kolom ketujuh 'Product_Sold' mengukur jumlah unit produk yang terjual masing-masing. Dataset ini merupakan sumber daya berharga untuk menyelidiki dampak iklan terhadap penjualan produk. link untuk [dataset](https://www.kaggle.com/datasets/singhnavjot2062001/product-advertising-data).
+
 Berikut adalah penjelasan singkat untuk setiap kolom:
 - TV: Biaya periklanan yang dihabiskan untuk iklan di televisi.
 - Billboards: Biaya periklanan yang dihabiskan untuk iklan di papan reklame.
@@ -31,3 +32,6 @@ terjadi perubahan yang signifikan dalam alokasi biaya iklan sebelum dan setelah 
 
 ![alt text](https://github.com/rizkyaep01/Optimizing-Advertising-Budgets/blob/main/pict/9koef.png?raw=true)
 
+- berdasarkan coefisiennya, Affiliate_marketing memberikan kontribusi terbesar terhadap penjualan produk
+- berdasarkan coefisiennya, Influencer_marketing memberikan kontribusi terkecil terhadap penjualan produk
+- dari data yang ada, sebelum di optimalkan alokasi biaya yang dikeluarkan relatif hampir merata, namun secara coefision setiap fitur berbeda. jelas alokasi biaya tidak efektif
